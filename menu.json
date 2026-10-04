@@ -1,0 +1,1040 @@
+{
+  "restaurant": {
+    "name": "Fork and Flame Restaurant",
+    "phone": "0332-0789999",
+    "delivery": true,
+    "currency": "PKR"
+  },
+  "items": [
+    {
+      "id": 1,
+      "category": "Chinese",
+      "name": "Chicken Chowmein",
+      "prices": {
+        "regular": 900
+      }
+    },
+    {
+      "id": 2,
+      "category": "Chinese",
+      "name": "Chicken Chowmein (Black Pepper)",
+      "prices": {
+        "regular": 800
+      }
+    },
+    {
+      "id": 3,
+      "category": "Chinese",
+      "name": "Vegetable Chowmein",
+      "prices": {
+        "regular": 700
+      }
+    },
+    {
+      "id": 4,
+      "category": "Chinese",
+      "name": "Chicken Macaroni Pasta",
+      "prices": {
+        "regular": 700
+      }
+    },
+    {
+      "id": 5,
+      "category": "Chinese",
+      "name": "Chicken Spaghetti",
+      "prices": {
+        "regular": 700
+      }
+    },
+    {
+      "id": 6,
+      "category": "Chinese",
+      "name": "Chicken Lasagna",
+      "prices": {
+        "regular": 800
+      }
+    },
+    {
+      "id": 7,
+      "category": "Biryani & Matka Special",
+      "name": "F & F Chicken Handi Biryani",
+      "prices": {
+        "regular": 800
+      }
+    },
+    {
+      "id": 8,
+      "category": "Biryani & Matka Special",
+      "name": "Chicken Tikka Biryani",
+      "prices": {
+        "regular": 1000
+      }
+    },
+    {
+      "id": 9,
+      "category": "Biryani & Matka Special",
+      "name": "Kashmiri Biryani",
+      "prices": {
+        "regular": 800
+      }
+    },
+    {
+      "id": 10,
+      "category": "Biryani & Matka Special",
+      "name": "Kofta Biryani",
+      "prices": {
+        "regular": 1200
+      }
+    },
+    {
+      "id": 11,
+      "category": "BBQ",
+      "name": "Chicken Tikka",
+      "prices": {
+        "chest": 500,
+        "leg": 450
+      }
+    },
+    {
+      "id": 12,
+      "category": "BBQ",
+      "name": "Malai Tikka",
+      "prices": {
+        "chest": 560,
+        "leg": 500
+      }
+    },
+    {
+      "id": 13,
+      "category": "BBQ",
+      "name": "Achari Tikka",
+      "prices": {
+        "chest": 550,
+        "leg": 500
+      }
+    },
+    {
+      "id": 14,
+      "category": "BBQ",
+      "name": "Spicy Tikka Boti",
+      "prices": {
+        "regular": 500
+      }
+    },
+    {
+      "id": 15,
+      "category": "BBQ",
+      "name": "Malai Boti",
+      "prices": {
+        "regular": 700
+      }
+    },
+    {
+      "id": 16,
+      "category": "BBQ",
+      "name": "Gola Kabab",
+      "prices": {
+        "regular": 600
+      }
+    },
+    {
+      "id": 17,
+      "category": "BBQ",
+      "name": "Seekh Kabab",
+      "prices": {
+        "regular": 550
+      }
+    },
+    {
+      "id": 18,
+      "category": "BBQ",
+      "name": "Bihari Boti",
+      "prices": {
+        "regular": 650
+      }
+    },
+    {
+      "id": 19,
+      "category": "BBQ",
+      "name": "Shashlik Stick",
+      "prices": {
+        "regular": 800
+      }
+    },
+    {
+      "id": 20,
+      "category": "Daal",
+      "name": "Makhni Daal Handi",
+      "prices": {
+        "regular": 650
+      }
+    },
+    {
+      "id": 21,
+      "category": "Broast",
+      "name": "Qutr Broast",
+      "prices": {
+        "regular": 500
+      }
+    },
+    {
+      "id": 22,
+      "category": "Broast",
+      "name": "Big Broast",
+      "prices": {
+        "regular": 600
+      }
+    },
+    {
+      "id": 23,
+      "category": "Broast",
+      "name": "Garlic Broast",
+      "prices": {
+        "regular": 650
+      }
+    },
+    {
+      "id": 24,
+      "category": "Broast",
+      "name": "Spicy Broast",
+      "prices": {
+        "regular": 650
+      }
+    },
+    {
+      "id": 25,
+      "category": "Burger",
+      "name": "Zinger Burger",
+      "prices": {
+        "regular": 500
+      }
+    },
+    {
+      "id": 26,
+      "category": "Burger",
+      "name": "Malai Boti Burger",
+      "prices": {
+        "regular": 600
+      }
+    },
+    {
+      "id": 27,
+      "category": "Burger",
+      "name": "American Burger",
+      "prices": {
+        "regular": 900
+      }
+    },
+    {
+      "id": 28,
+      "category": "Burger",
+      "name": "Diamond Burger",
+      "prices": {
+        "regular": 900
+      }
+    },
+    {
+      "id": 29,
+      "category": "Burger",
+      "name": "BBQ Burger",
+      "prices": {
+        "regular": 550
+      }
+    },
+    {
+      "id": 30,
+      "category": "Burger",
+      "name": "Patty Burger",
+      "prices": {
+        "regular": 500
+      }
+    },
+    {
+      "id": 31,
+      "category": "Rolls",
+      "name": "Chicken Mayo Roll",
+      "prices": {
+        "regular": 300
+      }
+    },
+    {
+      "id": 32,
+      "category": "Rolls",
+      "name": "Chicken Twister Roll",
+      "prices": {
+        "regular": 300
+      }
+    },
+    {
+      "id": 33,
+      "category": "Rolls",
+      "name": "Chicken Loaded Roll",
+      "prices": {
+        "regular": 600
+      }
+    },
+    {
+      "id": 34,
+      "category": "Rolls",
+      "name": "Chicken Kabab Roll",
+      "prices": {
+        "regular": 300
+      }
+    },
+    {
+      "id": 35,
+      "category": "Rolls",
+      "name": "Chutney Roll",
+      "prices": {
+        "regular": 320
+      }
+    },
+    {
+      "id": 36,
+      "category": "Rolls",
+      "name": "BBQ Roll",
+      "prices": {
+        "regular": 350
+      }
+    },
+    {
+      "id": 37,
+      "category": "Rolls",
+      "name": "Malai Boti Roll",
+      "prices": {
+        "regular": 330
+      }
+    },
+    {
+      "id": 38,
+      "category": "Rolls",
+      "name": "Pizza Roll",
+      "prices": {
+        "regular": 500
+      }
+    },
+    {
+      "id": 39,
+      "category": "Fries",
+      "name": "Plain Fries",
+      "prices": {
+        "regular": 250
+      }
+    },
+    {
+      "id": 40,
+      "category": "Fries",
+      "name": "Masala Fries",
+      "prices": {
+        "regular": 260
+      }
+    },
+    {
+      "id": 41,
+      "category": "Fries",
+      "name": "Spicy Fries",
+      "prices": {
+        "regular": 270
+      }
+    },
+    {
+      "id": 42,
+      "category": "Fries",
+      "name": "Loaded Fries",
+      "prices": {
+        "regular": 550
+      }
+    },
+    {
+      "id": 43,
+      "category": "Fries",
+      "name": "Pizza Fries",
+      "prices": {
+        "regular": 500
+      }
+    },
+    {
+      "id": 44,
+      "category": "Fries",
+      "name": "Garlic Fries",
+      "prices": {
+        "regular": 300
+      }
+    },
+    {
+      "id": 45,
+      "category": "Fries",
+      "name": "Mayo Fries",
+      "prices": {
+        "regular": 320
+      }
+    },
+    {
+      "id": 46,
+      "category": "Fries",
+      "name": "Cheese Sticks",
+      "prices": {
+        "regular": 600
+      },
+      "note": "5 pieces"
+    },
+    {
+      "id": 47,
+      "category": "Fries",
+      "name": "Cheese Balls",
+      "prices": {
+        "regular": 800
+      },
+      "note": "5 pieces"
+    },
+    {
+      "id": 48,
+      "category": "Extra",
+      "name": "Chatni",
+      "prices": {
+        "regular": 100
+      }
+    },
+    {
+      "id": 49,
+      "category": "Extra",
+      "name": "Achar",
+      "prices": {
+        "regular": 100
+      }
+    },
+    {
+      "id": 50,
+      "category": "Extra",
+      "name": "Mayo",
+      "prices": {
+        "regular": 100
+      }
+    },
+    {
+      "id": 51,
+      "category": "Extra",
+      "name": "Sauce",
+      "prices": {
+        "regular": 100
+      }
+    },
+    {
+      "id": 52,
+      "category": "Beverages & Tea",
+      "name": "Coffee",
+      "prices": {
+        "regular": 300
+      }
+    },
+    {
+      "id": 53,
+      "category": "Beverages & Tea",
+      "name": "Cold Coffee",
+      "prices": {
+        "regular": 350
+      }
+    },
+    {
+      "id": 54,
+      "category": "Beverages & Tea",
+      "name": "Special Tea",
+      "prices": {
+        "regular": 130
+      }
+    },
+    {
+      "id": 55,
+      "category": "Beverages & Tea",
+      "name": "Elaichi Tea",
+      "prices": {
+        "regular": 130
+      }
+    },
+    {
+      "id": 56,
+      "category": "Beverages & Tea",
+      "name": "Ghur Tea",
+      "prices": {
+        "regular": 150
+      }
+    },
+    {
+      "id": 57,
+      "category": "Beverages & Tea",
+      "name": "Green Tea",
+      "prices": {
+        "regular": 120
+      }
+    },
+    {
+      "id": 58,
+      "category": "Beverages & Tea",
+      "name": "Apple Tea",
+      "prices": {
+        "regular": 120
+      }
+    },
+    {
+      "id": 59,
+      "category": "Beverages & Tea",
+      "name": "Lemon Tea",
+      "prices": {
+        "regular": 120
+      }
+    },
+    {
+      "id": 60,
+      "category": "Beverages & Tea",
+      "name": "Strawberry Tea",
+      "prices": {
+        "regular": 120
+      }
+    },
+    {
+      "id": 61,
+      "category": "Beverages & Tea",
+      "name": "Salad",
+      "prices": {
+        "regular": 100
+      }
+    },
+    {
+      "id": 62,
+      "category": "Beverages & Tea",
+      "name": "Raita",
+      "prices": {
+        "regular": 70
+      }
+    },
+    {
+      "id": 63,
+      "category": "Beverages & Tea",
+      "name": "Water",
+      "prices": {
+        "small": 60,
+        "large": 120,
+        "1.5_ltr": 250
+      }
+    },
+    {
+      "id": 64,
+      "category": "Beverages & Tea",
+      "name": "Cold Drink",
+      "prices": {
+        "tin": 140
+      }
+    },
+    {
+      "id": 65,
+      "category": "Pizza",
+      "name": "Chicken Tikka Pizza",
+      "prices": {
+        "small": 600,
+        "medium": 1100,
+        "large": 1400
+      }
+    },
+    {
+      "id": 66,
+      "category": "Pizza",
+      "name": "Chicken Fajita Pizza",
+      "prices": {
+        "small": 600,
+        "medium": 1100,
+        "large": 1400
+      }
+    },
+    {
+      "id": 67,
+      "category": "Pizza",
+      "name": "Chicken Supreme Pizza",
+      "prices": {
+        "small": 600,
+        "medium": 1100,
+        "large": 1400
+      }
+    },
+    {
+      "id": 68,
+      "category": "Pizza",
+      "name": "Malai Tikka Pizza",
+      "prices": {
+        "small": 600,
+        "medium": 1100,
+        "large": 1400
+      }
+    },
+    {
+      "id": 69,
+      "category": "Pizza",
+      "name": "Cheese Lover Pizza",
+      "prices": {
+        "small": 600,
+        "medium": 1100,
+        "large": 1400
+      }
+    },
+    {
+      "id": 70,
+      "category": "Pizza",
+      "name": "Mayo Creamy Pizza",
+      "prices": {
+        "small": 600,
+        "medium": 1100,
+        "large": 1400
+      }
+    },
+    {
+      "id": 71,
+      "category": "Special Flavours Pizza",
+      "name": "Chicken Seekh Kabab Pizza",
+      "prices": {
+        "large": 1600
+      }
+    },
+    {
+      "id": 72,
+      "category": "Special Flavours Pizza",
+      "name": "Chicken Crown Pizza",
+      "prices": {
+        "large": 1700
+      }
+    },
+    {
+      "id": 73,
+      "category": "Special Flavours Pizza",
+      "name": "Chicken Bihari Pizza",
+      "prices": {
+        "large": 1700
+      }
+    },
+    {
+      "id": 74,
+      "category": "Special Flavours Pizza",
+      "name": "Chicken Lava Pizza",
+      "prices": {
+        "large": 1800
+      }
+    },
+    {
+      "id": 75,
+      "category": "Sandwich",
+      "name": "Club Sandwich",
+      "prices": {
+        "regular": 600
+      }
+    },
+    {
+      "id": 76,
+      "category": "Sandwich",
+      "name": "Malai Boti Sandwich",
+      "prices": {
+        "regular": 650
+      }
+    },
+    {
+      "id": 77,
+      "category": "Sandwich",
+      "name": "BBQ Sandwich",
+      "prices": {
+        "regular": 650
+      }
+    },
+    {
+      "id": 78,
+      "category": "Sandwich",
+      "name": "Mexican Sandwich",
+      "prices": {
+        "regular": 800
+      }
+    },
+    {
+      "id": 79,
+      "category": "Sandwich",
+      "name": "Fajita Sandwich",
+      "prices": {
+        "regular": 700
+      }
+    },
+    {
+      "id": 80,
+      "category": "Sandwich",
+      "name": "Chicken Sandwich",
+      "prices": {
+        "regular": 500
+      }
+    },
+    {
+      "id": 81,
+      "category": "Chicken Karahi",
+      "name": "Chicken Brown (Dry) Karahi",
+      "prices": {
+        "full": 2500,
+        "half": 1300
+      }
+    },
+    {
+      "id": 82,
+      "category": "Chicken Karahi",
+      "name": "Chicken White Karahi",
+      "prices": {
+        "full": 2500,
+        "half": 1300
+      }
+    },
+    {
+      "id": 83,
+      "category": "Chicken Karahi",
+      "name": "Chicken White Shahi Karahi",
+      "prices": {
+        "full": 2800,
+        "half": 1400
+      }
+    },
+    {
+      "id": 84,
+      "category": "Chicken Karahi",
+      "name": "Chicken Achari Karahi",
+      "prices": {
+        "full": 2300,
+        "half": 1200
+      }
+    },
+    {
+      "id": 85,
+      "category": "Chicken Karahi",
+      "name": "Chicken Regular Karahi",
+      "prices": {
+        "full": 2200,
+        "half": 1100,
+        "quarter": 600
+      }
+    },
+    {
+      "id": 86,
+      "category": "Chicken Karahi",
+      "name": "Chicken Coal Karahi",
+      "prices": {
+        "full": 2300,
+        "half": 1200
+      }
+    },
+    {
+      "id": 87,
+      "category": "Chicken Karahi",
+      "name": "Chicken Spring Karahi",
+      "prices": {
+        "full": 2800,
+        "half": 1400
+      }
+    },
+    {
+      "id": 88,
+      "category": "Mutton Karahi",
+      "name": "Mutton Brown (Dry) Karahi",
+      "prices": {
+        "full": 4000,
+        "half": 2000
+      }
+    },
+    {
+      "id": 89,
+      "category": "Mutton Karahi",
+      "name": "Mutton White Karahi",
+      "prices": {
+        "full": 4000,
+        "half": 2050
+      }
+    },
+    {
+      "id": 90,
+      "category": "Mutton Karahi",
+      "name": "Mutton White Shahi Karahi",
+      "prices": {
+        "full": 4500,
+        "half": 2300
+      }
+    },
+    {
+      "id": 91,
+      "category": "Mutton Karahi",
+      "name": "Mutton Achari Karahi",
+      "prices": {
+        "full": 4000,
+        "half": 2000
+      }
+    },
+    {
+      "id": 92,
+      "category": "Mutton Karahi",
+      "name": "Mutton Regular Karahi",
+      "prices": {
+        "full": 3800,
+        "half": 1800,
+        "quarter": 1000
+      }
+    },
+    {
+      "id": 93,
+      "category": "Mutton Karahi",
+      "name": "Mutton Coal Karahi",
+      "prices": {
+        "full": 4200,
+        "half": 2100
+      }
+    },
+    {
+      "id": 94,
+      "category": "Mutton Karahi",
+      "name": "Mutton Sulemani Karahi",
+      "prices": {
+        "full": 4400,
+        "half": 2200
+      }
+    },
+    {
+      "id": 95,
+      "category": "Handi",
+      "name": "Chicken Boneless Handi (Red)",
+      "prices": {
+        "full": 3300,
+        "half": 1700,
+        "quarter": 900
+      }
+    },
+    {
+      "id": 96,
+      "category": "Handi",
+      "name": "Chicken Boneless Handi (White)",
+      "prices": {
+        "full": 3500,
+        "half": 1750,
+        "quarter": 900
+      }
+    },
+    {
+      "id": 97,
+      "category": "Handi",
+      "name": "Chicken Afghani Boneless Handi",
+      "prices": {
+        "full": 3600,
+        "half": 1800,
+        "quarter": 900
+      }
+    },
+    {
+      "id": 98,
+      "category": "Handi",
+      "name": "Chicken Boneless White Shahi Handi",
+      "prices": {
+        "full": 4000,
+        "half": 2000
+      }
+    },
+    {
+      "id": 99,
+      "category": "Handi",
+      "name": "Chicken Makhani Handi (Red)",
+      "prices": {
+        "full": 3700,
+        "half": 1850,
+        "quarter": 1000
+      }
+    },
+    {
+      "id": 100,
+      "category": "Handi",
+      "name": "Chicken Makhani Handi (White)",
+      "prices": {
+        "full": 3900,
+        "half": 1950,
+        "quarter": 1000
+      }
+    },
+    {
+      "id": 101,
+      "category": "Handi",
+      "name": "Kofta Handi",
+      "prices": {
+        "full": 2600,
+        "half": 1300,
+        "quarter": 700
+      }
+    },
+    {
+      "id": 102,
+      "category": "Naan",
+      "name": "Naan",
+      "prices": {
+        "regular": 40
+      }
+    },
+    {
+      "id": 103,
+      "category": "Naan",
+      "name": "Garlic Naan",
+      "prices": {
+        "regular": 70
+      }
+    },
+    {
+      "id": 104,
+      "category": "Naan",
+      "name": "Chapati",
+      "prices": {
+        "regular": 30
+      }
+    },
+    {
+      "id": 105,
+      "category": "Naan",
+      "name": "Rogni Naan",
+      "prices": {
+        "regular": 70
+      }
+    },
+    {
+      "id": 106,
+      "category": "Naan",
+      "name": "Kalaunji Naan",
+      "prices": {
+        "regular": 90
+      }
+    },
+    {
+      "id": 107,
+      "category": "Ice Cream",
+      "name": "Kulfa Ice Cream",
+      "prices": {
+        "half": 150,
+        "full": 250
+      }
+    },
+    {
+      "id": 108,
+      "category": "Ice Cream",
+      "name": "Totti Frutti Ice Cream",
+      "prices": {
+        "half": 150,
+        "full": 250
+      }
+    },
+    {
+      "id": 109,
+      "category": "Ice Cream",
+      "name": "Chocolate Ice Cream",
+      "prices": {
+        "half": 150,
+        "full": 250
+      }
+    },
+    {
+      "id": 110,
+      "category": "Ice Cream",
+      "name": "Pista Ice Cream",
+      "prices": {
+        "half": 150,
+        "full": 250
+      }
+    },
+    {
+      "id": 111,
+      "category": "Ice Cream",
+      "name": "Mango Ice Cream",
+      "prices": {
+        "half": 150,
+        "full": 250
+      }
+    },
+    {
+      "id": 112,
+      "category": "Ice Cream",
+      "name": "Strawberry Ice Cream",
+      "prices": {
+        "half": 150,
+        "full": 250
+      }
+    },
+    {
+      "id": 113,
+      "category": "Ice Cream",
+      "name": "Falouda",
+      "prices": {
+        "regular": 520
+      }
+    },
+    {
+      "id": 114,
+      "category": "Rice & Wok Delights",
+      "name": "Chicken Fried Rice",
+      "prices": {
+        "regular": 700
+      }
+    },
+    {
+      "id": 115,
+      "category": "Rice & Wok Delights",
+      "name": "Vegetable Rice",
+      "prices": {
+        "regular": 600
+      }
+    },
+    {
+      "id": 116,
+      "category": "Rice & Wok Delights",
+      "name": "Singaporean Rice",
+      "prices": {
+        "regular": 1200
+      }
+    },
+    {
+      "id": 117,
+      "category": "Rice & Wok Delights",
+      "name": "Fajita Rice (New)",
+      "prices": {
+        "regular": 1000
+      }
+    },
+    {
+      "id": 118,
+      "category": "Rice & Wok Delights",
+      "name": "White Rice",
+      "prices": {
+        "regular": 300
+      }
+    },
+    {
+      "id": 119,
+      "category": "Rice & Wok Delights",
+      "name": "Chicken Manchurian with Rice",
+      "prices": {
+        "regular": 900
+      }
+    },
+    {
+      "id": 120,
+      "category": "Rice & Wok Delights",
+      "name": "Chicken Chilli with Rice",
+      "prices": {
+        "regular": 900
+      }
+    },
+    {
+      "id": 121,
+      "category": "Rice & Wok Delights",
+      "name": "Chicken Shashlik with Rice",
+      "prices": {
+        "regular": 1000
+      }
+    },
+    {
+      "id": 122,
+      "category": "Rice & Wok Delights",
+      "name": "Chicken Galferzi with Rice",
+      "prices": {
+        "regular": 1000
+      }
+    }
+  ]
+}

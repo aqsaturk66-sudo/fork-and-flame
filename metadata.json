@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fork \u0026 Flame Restaurant",
+  "description": "Premium dining \u0026 delivery restaurant in Badin, Sindh. Specializing in authentic Karahi, Handi, BBQ, Matka Biryani, Broast, and Wok Delights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
